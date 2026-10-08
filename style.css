@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:sans-serif;
+}
+
+body{
+    background-color: white;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.web_icon img{
+    width: 80px;
+    height: 80px;
+}
+
+.web_logo{
+    text-decoration: none;
+    color: #000;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
