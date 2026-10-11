@@ -65,3 +65,17 @@ body{
     border: 2.5px solid #111;
     border-radius: 255px 15px 225px 15px / 15px 225px 15px 255px;
 }
+
+.motivation p{
+    text-align: center;
+    padding-top: 10px;
+    color: red;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.motivation p span{
+    color: green;
+    text-decoration:underline;
+    font-size: 28px;
+}
